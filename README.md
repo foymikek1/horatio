@@ -1,4 +1,4 @@
-Horatio was experimental nature: it didn’t fully work, but the lessons learned made it a valuable learning experience fueling curiosity and learning.
+Horatio was experimental nature: it didn’t fully work, but the lessons learned made it a valuable learning experience.
 
 
 
