@@ -1,0 +1,10 @@
+# ignore any SSH keys
+ssh_server/ssh_host_rsa_key*
+  
+# Rails / temp
+simple_api/tmp/
+simple_api/log/
+simple_api/node_modules/
+simple_api/vendor/bundle/cache/
+.env
+.git
